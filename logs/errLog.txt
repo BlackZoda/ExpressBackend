@@ -1,1 +1,2 @@
 20231214	11:25:05	fbb26b30-243d-48b4-b5f3-e563f6c83046	Error Not allowed by CORS
+20231214	13:37:18	84a8ce38-efcc-48bc-8766-9f395bc98f98	Error ENOENT: no such file or directory, stat '/Users/Abusdal/JavaScript/Node/ExpressBackend/views/dubdir/index.html'
