@@ -5,3 +5,8 @@
 20231215	22:59:05	8fb0e293-29f7-42a5-bc5f-2ccfa04512c2	TypeError Cannot read properties of undefined (reading 'id')
 20231215	23:03:51	f42ea017-8dd1-4bae-9468-77a35d2b7386	TypeError Cannot read properties of undefined (reading 'id')
 20231215	23:05:09	1a8a0095-6e9c-420e-bb66-4d39717af1f6	TypeError Cannot read properties of undefined (reading 'id')
+20231218	22:59:12	34fc4670-afdb-4066-adfb-4ff6becedcf2	TypeError req.headers is not a function
+20231218	22:59:39	20988258-8980-4d28-a53e-9af29f2c867a	TypeError req.headers is not a function
+20231218	23:00:11	0fdeb05c-67d7-4040-af03-310f121a116b	TypeError req.headers is not a function
+20231218	23:00:12	aef8d3cb-ee97-42ed-9b86-a2a5b6b58afc	TypeError req.headers is not a function
+20231229	22:46:43	6cb9f81d-da6c-4c34-810a-6f84f74ca543	TypeError whiteList.include is not a function
