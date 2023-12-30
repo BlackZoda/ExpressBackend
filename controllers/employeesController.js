@@ -9,7 +9,6 @@ const readAllEmployees = (req, res) => {
 
 const readEmployee = (req, res) => {
     const employee = data.employees.find(emp => emp.id === parseInt(req.params.id));
-    console.log(employee);
     if (!employee) {
         return res.status(400).json({ "message": `Employee ID ${req.params.id} not found` });
     }
