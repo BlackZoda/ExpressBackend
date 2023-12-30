@@ -202,3 +202,6 @@
 20231230	17:39:33	a19b9450-e326-49a4-9e58-a9caa327f12b	GET	undefined	/employees
 20231230	17:39:40	a9e28564-b933-4c09-882f-294f898f5122	GET	undefined	/refresh
 20231230	17:40:00	6b0c0355-bd31-41b8-a88c-5d4d14f28237	DELETE	undefined	/employees
+20231230	20:42:06	9f2140f8-9376-4c9b-acc1-cd5e441e84de	POST	undefined	/auth
+20231230	20:42:25	f850377b-eb83-4954-9f8f-5fb95c3ff7c4	POST	undefined	/register
+20231230	20:44:39	4a676623-a228-4afa-9b10-eed754bdfd9b	POST	undefined	/register
